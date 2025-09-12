@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.android/
+.ios/
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Android/IntelliJ
+*.apk
+*.aar
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# Keystore
+*.jks
+*.keystore
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Generated plugin registrant (optional)
+linux/flutter/generated_*
+windows/flutter/generated_*
+macos/Flutter/GeneratedPluginRegistrant.*
